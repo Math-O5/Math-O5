@@ -2,7 +2,15 @@
 
 Make yourself at home.
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Math-O5&show_icons=true&theme=cobalt&hide_rank=false)
+<details>
+    <summary>:zap: Github stats</summary>
+   <img align="center" style="width: 100%" src="https://github-readme-stats-custom.vercel.app/api?username=Math-O5&show_icons=true&theme=radical&hide_rank=false"></img> 
+</details>
+<details>
+    <summary>:zap: Languages</summary>
+   <img align="center" style="width: 100%" src="https://github-readme-stats-custom.vercel.app/api/top-langs/?username=Math-O5&show_icons=true&theme=radical&hide_rank=false"></img> 
+</details>
+
  
 ### Find me 
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-red?style=flat-square&logo=Stackoverflow&logoColor=white&logoSize=large&link=https://stackoverflow.com/users/13593380/math-o5?tab=profile)](https://stackoverflow.com/users/13593380/math-o5?tab=profile)
