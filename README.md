@@ -1,14 +1,23 @@
-## Welcome 👋
+# Welcome 👋
+Hi! I'm a computer science studant and developer from Brazil. My favorites topics about the field is optimization, on-board systems and web development. By now i'm learning about linear programming and contribuing in some open source projects.  
 
 Make yourself at home.
 
+# Quick overview
 <details>
     <summary>:penguin:<strong>Github stats </strong></summary>
    <img align="center" style="width: 100%" src="https://github-readme-stats-custom.vercel.app/api?username=Math-O5&show_icons=true&theme=radical&hide_rank=false"></img> 
 </details>
 <details>
     <summary>:zap: <strong>Languages </strong></summary>
-   <img align="center" style="width: 100%" src="https://github-readme-stats-custom.vercel.app/api/top-langs/?username=Math-O5&show_icons=true&theme=radical&hide_rank=false"></img> 
+    <br>
+    <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
+    <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+    <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
+    <img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
 </details>
 <details>
   <summary>:rocket:<strong>StackOverflow stats </strong></summary>
@@ -21,9 +30,11 @@ Make yourself at home.
     <p>PT_BR: Tudo o que você precisa fazer é colar a url em um arquivo readme.md. Não se esqueça de substituir YOUR_ID_HERE com seu id no stackoverflow.</p>     
  
     <img align="center" src="https://github-readme-stats-custom.vercel.app/api/stack/?ids=YOUR_ID_HERE&show_icons=true&theme=stack"></img>
-    
+
   <p>Checkout this repo for more information.<p>
-  <img align="center" style="width: 100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Math-O5&repo=stackoverflow-readme-stats"></img>
+    
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Math-O5&repo=stackoverflow-readme-stats)](https://github.com/Math-O5/stackoverflow-readme-stats)
+
 </details>
  
 ### Find me 
