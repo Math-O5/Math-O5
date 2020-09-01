@@ -12,7 +12,7 @@ Make yourself at home.
 </details>
 <details>
   <summary>:rocket: StackOverflow stats</summary>
-  <img align="center" style="width: 100%" src="https://github-readme-stats-custom.vercel.app/api/stack/?ids=13593380&show_icons=true&theme=gruvbox"></img>  
+  <img align="center" style="width: 100%" src="https://github-readme-stats-custom.vercel.app/api/stack/?ids=13593380&show_icons=true&theme=stack"></img>  
 </details>
  
 ### Find me 
