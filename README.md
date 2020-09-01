@@ -3,16 +3,27 @@
 Make yourself at home.
 
 <details>
-    <summary>:penguin: Github stats</summary>
+    <summary>:penguin:<strong>Github stats </strong></summary>
    <img align="center" style="width: 100%" src="https://github-readme-stats-custom.vercel.app/api?username=Math-O5&show_icons=true&theme=radical&hide_rank=false"></img> 
 </details>
 <details>
-    <summary>:zap: Languages</summary>
+    <summary>:zap: <strong>Languages </strong></summary>
    <img align="center" style="width: 100%" src="https://github-readme-stats-custom.vercel.app/api/top-langs/?username=Math-O5&show_icons=true&theme=radical&hide_rank=false"></img> 
 </details>
 <details>
-  <summary>:rocket: StackOverflow stats</summary>
-  <img align="center" style="width: 100%" src="https://github-readme-stats-custom.vercel.app/api/stack/?ids=13593380&show_icons=true&theme=stack"></img>  
+  <summary>:rocket:<strong>StackOverflow stats </strong></summary>
+  <img align="center" src="https://github-readme-stats-custom.vercel.app/api/stack/?ids=13593380&show_icons=true&theme=stack"></img>  
+</details>
+<details>
+  <summary>:pie: <strong>How insert stats of Stackoverflow (Como inserir os cartões dinâmicos do Stackoverflow!)</strong></summary>
+    <br>
+    <p>EN: All you need to do is paste this tag on readme file with the your id of stackoverflow. Remeber change YOUR_ID_HERE on the url.</p>
+    <p>PT_BR: Tudo o que você precisa fazer é colar a url em um arquivo readme.md. Não se esqueça de substituir YOUR_ID_HERE com seu id no stackoverflow.</p>     
+ 
+    <img align="center" src="https://github-readme-stats-custom.vercel.app/api/stack/?ids=YOUR_ID_HERE&show_icons=true&theme=stack"></img>
+    
+  <p>Checkout this repo for more information.<p>
+  <img align="center" style="width: 100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Math-O5&repo=stackoverflow-readme-stats"></img>
 </details>
  
 ### Find me 
