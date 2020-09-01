@@ -3,14 +3,17 @@
 Make yourself at home.
 
 <details>
-    <summary>:zap: Github stats</summary>
+    <summary>:penguin: Github stats</summary>
    <img align="center" style="width: 100%" src="https://github-readme-stats-custom.vercel.app/api?username=Math-O5&show_icons=true&theme=radical&hide_rank=false"></img> 
 </details>
 <details>
     <summary>:zap: Languages</summary>
    <img align="center" style="width: 100%" src="https://github-readme-stats-custom.vercel.app/api/top-langs/?username=Math-O5&show_icons=true&theme=radical&hide_rank=false"></img> 
 </details>
-
+<details>
+  <summary>:rocket: StackOverflow stats</summary>
+  <img align="center" style="width: 100%" src="https://github-readme-stats-custom.vercel.app/api/stack/?ids=13593380&show_icons=true&theme=gruvbox"></img>  
+</details>
  
 ### Find me 
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-red?style=flat-square&logo=Stackoverflow&logoColor=white&logoSize=large&link=https://stackoverflow.com/users/13593380/math-o5?tab=profile)](https://stackoverflow.com/users/13593380/math-o5?tab=profile)
