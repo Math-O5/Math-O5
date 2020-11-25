@@ -1,12 +1,24 @@
 # Welcome 👋
-Hi! I'm a computer science studant and developer from Brazil. My favorites topics about the field is optimization, on-board systems and web development. By now i'm learning about linear programming and contribuing in some open source projects.  
-
 Make yourself at home.
+
+# Subjects :book
+
+Computer Science & Optimization & Full Stack
 
 # Quick overview
 <details>
     <summary>:penguin:<strong>Github stats </strong></summary>
    <img align="center" style="width: 100%" src="https://github-readme-stats-custom.vercel.app/api?username=Math-O5&show_icons=true&theme=radical&hide_rank=false"></img> 
+</details>
+<details>
+    <summary>:gear: <strong>Tools</strong></summary>
+    <br>
+    <img src="https://img.shields.io/badge/tools-os%20linux-blue"/>
+    <img src="https://img.shields.io/badge/cloud-Amazon-orange"/>
+    <img src="https://img.shields.io/badge/shell-bash-blueviolet"/>
+    <img src="https://img.shields.io/badge/tools%20-PostgresSQL-yellowgreen"/>
+    <img src="https://img.shields.io/badge/framework-angular-red"/>
+    <img src="https://img.shields.io/badge/framework-react-blue"/>  
 </details>
 <details>
     <summary>:zap: <strong>Languages </strong></summary>
@@ -16,6 +28,7 @@ Make yourself at home.
     <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+    <img src="https://img.shields.io/badge/ruby%20-%23323330.svg?&style=for-the-badge&logo=ruby&logoColor=blueviolet"/>
     <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
     <img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
 </details>
