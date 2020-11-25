@@ -1,12 +1,9 @@
 ## Welcome 👋
 Make yourself at home.
 
-## Subjects
-
-Computer Science & Optimization & Full Stack
-
 ## Quick overview
-<details>
+<p style="display:flex;">
+<details style="display:block;">
     <summary>:penguin:<strong>Github stats </strong></summary>
    <img align="center" style="width: 100%" src="https://github-readme-stats-custom.vercel.app/api?username=Math-O5&show_icons=true&theme=radical&hide_rank=false"></img> 
 </details>
@@ -59,7 +56,11 @@ Computer Science & Optimization & Full Stack
   <summary>:rocket:<strong>StackOverflow stats </strong></summary>
   <img align="center" src="https://github-readme-stats-custom.vercel.app/api/stack/?ids=13593380&show_icons=true&theme=stack"></img>  
 </details>
-                  
+</p>
+          
+ ## Subjects
+Computer Science & Optimization & Full Stack & Open Source
+
 ## Find me 
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-red?style=flat-square&logo=Stackoverflow&logoColor=white&logoSize=large&link=https://stackoverflow.com/users/13593380/math-o5?tab=profile)](https://stackoverflow.com/users/13593380/math-o5?tab=profile)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mathias-fernandes-b376b61a5/)](https://www.linkedin.com/in/mathias-fernandes-b376b61a5/)
