@@ -13,24 +13,47 @@ Computer Science & Optimization & Full Stack
 <details>
     <summary>:gear: <strong>Tools</strong></summary>
     <br>
-    <img src="https://img.shields.io/badge/tools-os%20linux-blue"/>
-    <img src="https://img.shields.io/badge/cloud-Amazon-orange"/>
-    <img src="https://img.shields.io/badge/shell-bash-blueviolet"/>
-    <img src="https://img.shields.io/badge/tools%20-PostgresSQL-yellowgreen"/>
-    <img src="https://img.shields.io/badge/framework-angular-red"/>
-    <img src="https://img.shields.io/badge/framework-react-blue"/>  
+    <ul>
+        <li>
+            <p>OS&Server</p>
+             <img src="https://img.shields.io/badge/tools-os%20linux-blue"/>
+             <img src="https://img.shields.io/badge/shell-bash-blueviolet"/>
+        </li>
+        <li>
+            <p>Storage</p>
+             <img src="https://img.shields.io/badge/cloud-Amazon-orange"/>
+            <img src="https://img.shields.io/badge/tools%20-PostgresSQL-yellowgreen"/>
+            <img src="https://img.shields.io/badge/tools%20-Mongoose-yellowgreen"/>
+        </li>
+        <li>
+            <p>Frameworks</p>
+            <img src="https://img.shields.io/badge/framework-angular-red"/>
+            <img src="https://img.shields.io/badge/framework-react-blue"/>
+            <img src="https://img.shields.io/badge/framework-vue-green"/>
+            <img src="https://img.shields.io/badge/framework-ruby-on-rails-violet"/>  
+        </li>
+    </ul>
 </details>
 <details>
     <summary>:zap: <strong>Languages </strong></summary>
     <br>
-    <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
-    <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-    <img src="https://img.shields.io/badge/ruby%20-%23323330.svg?&style=for-the-badge&logo=ruby&logoColor=blueviolet"/>
-    <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
-    <img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
+        <ul>
+        <li>
+            <p>Most used</p>
+               <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
+                <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+                <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+                <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+                <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
+                <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+        <li>
+            <p>Know/low used</p>
+                <img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
+                <img src="https://img.shields.io/badge/ruby%20-%23323330.svg?&style=for-the-badge&logo=ruby&logoColor=blueviolet"/>
+                <img src="https://img.shields.io/badge/java%20-%ff0000.svg?&style=for-the-badge&logo=java&logoColor=white&color=red"/>
+        </li>
+    </ul>
+  
 </details>
 <details>
   <summary>:rocket:<strong>StackOverflow stats </strong></summary>
