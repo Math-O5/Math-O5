@@ -28,6 +28,7 @@ Make yourself at home.
             <img src="https://img.shields.io/badge/framework-react-blue"/>
             <img src="https://img.shields.io/badge/framework-vue-green"/>
             <img src="https://img.shields.io/badge/framework-ruby-on-rails-violet"/>  
+            <img src="https://img.shields.io/badge/framework-elixir-violet"/>  
         </li>
     </ul>
 </details>
