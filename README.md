@@ -3,12 +3,15 @@ Make yourself at home.
 
 ## Quick overview
 <p style="display:flex;">
-<details style="display:block;">
+<!-- <details style="display:block;">
     <summary>:penguin:<strong>Github stats </strong></summary>
    <img align="center" style="width: 100%" src="https://github-readme-stats-custom.vercel.app/api?username=Math-O5&show_icons=true&theme=radical&hide_rank=false"></img> 
-</details>
+</details> -->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Math-O5&langs_count=6&hide=css,scss,html,c%23,jupyter%20notebook&theme=tokyonight)<summary>:gear: <strong>Tools</strong></summary>
+
+    
 <details>
-    <summary>:gear: <strong>Tools</strong></summary>
     <br>
     <ul>
         <li>Microservices and Event-Driven</li>
