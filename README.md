@@ -1,6 +1,3 @@
-## Welcome 👋
-Make yourself at home.
-
 ## Quick overview
 <p style="display:flex;">
 <!-- <details style="display:block;">
@@ -8,9 +5,8 @@ Make yourself at home.
    <img align="center" style="width: 100%" src="https://github-readme-stats-custom.vercel.app/api?username=Math-O5&show_icons=true&theme=radical&hide_rank=false"></img> 
 </details> -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Math-O5&langs_count=6&hide=css,scss,html,c%23,jupyter%20notebook&theme=tokyonight)<summary>:gear: <strong>Tools</strong></summary>
 
-    
+<!--     
 <details>
     <br>
     <ul>
@@ -33,12 +29,14 @@ Make yourself at home.
             <img src="https://img.shields.io/badge/framework-vue-green"/>
             <img src="https://img.shields.io/badge/framework-ruby_on_rails-violet"/>  
         </li>
-    </ul>
-</details>
+    </ul> 
+</details> 
+-->
 <details>
     <summary>:zap: <strong>Languages </strong></summary>
     <br>
-        <ul>
+    <img align="center" style="width: 50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Math-O5&langs_count=6&hide=css,scss,html,c%23,jupyter%20notebook&theme=tokyonight"></img> 
+<!--         <ul>
         <li>
             <p>Most used</p>
                 <img src="https://img.shields.io/badge/Go%20-%2300599C.svg?&style=for-the-badge&ogoColor=white"/>
@@ -54,7 +52,7 @@ Make yourself at home.
                 <img src="https://img.shields.io/badge/ruby%20-%23323330.svg?&style=for-the-badge&logo=ruby&logoColor=blueviolet"/>
                 <img src="https://img.shields.io/badge/java%20-%ff0000.svg?&style=for-the-badge&logo=java&logoColor=white&color=red"/>
         </li>
-    </ul>
+    </ul> -->
   
 </details>
 <details>
