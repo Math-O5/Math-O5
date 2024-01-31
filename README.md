@@ -29,7 +29,6 @@ Make yourself at home.
             <img src="https://img.shields.io/badge/framework-react-blue"/>
             <img src="https://img.shields.io/badge/framework-vue-green"/>
             <img src="https://img.shields.io/badge/framework-ruby_on_rails-violet"/>  
-            <img src="https://img.shields.io/badge/framework-elixir-violet"/>  
         </li>
     </ul>
 </details>
@@ -39,7 +38,8 @@ Make yourself at home.
         <ul>
         <li>
             <p>Most used</p>
-               <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
+                <img src="https://img.shields.io/badge/Go%20-%2300599C.svg?&style=for-the-badge&ogoColor=white"/>
+                <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
                 <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
                 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
                 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
