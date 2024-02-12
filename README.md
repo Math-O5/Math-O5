@@ -32,10 +32,12 @@
     </ul> 
 </details> 
 -->
-<details>
+<details open style="display:block;">
     <summary>:zap: <strong>Languages </strong></summary>
-    <img align="center" style="width: 49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Math-O5&langs_count=6&hide=css,scss,html,c%23,jupyter%20notebook&theme=classic"></img> 
+<div style="display:flex;">
+    <img style="width: 40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Math-O5&langs_count=6&hide=css,scss,html,c%23,jupyter%20notebook&theme=classic"></img> 
     <img src="https://api.githubtrends.io/user/svg/Math-O5/langs?time_range=one_year&use_percent=True&theme=classic"><img>
+</div>
 </details>
 <!--         <ul>
         <li>
